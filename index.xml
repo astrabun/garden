@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Astra&#039;s Digital Garden</title>
+      <link>https://garden.astrabun.com</link>
+      <description>Last 10 notes on 🪴 Astra&#039;s Digital Garden</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Discord Reactive</title>
+    <link>https://garden.astrabun.com/Resources/Livestreaming/Discord-Reactive</link>
+    <guid>https://garden.astrabun.com/Resources/Livestreaming/Discord-Reactive</guid>
+    <description> Reactive allows you to easily visualize your Discord voice call in OBS with a single browser source. It’s like Discord Streamkit but more customizable and easier to use.</description>
+    <pubDate>Tue, 18 Feb 2025 03:38:30 GMT</pubDate>
+  </item><item>
+    <title>Streamer.bot</title>
+    <link>https://garden.astrabun.com/Resources/Livestreaming/Streamer.bot</link>
+    <guid>https://garden.astrabun.com/Resources/Livestreaming/Streamer.bot</guid>
+    <description>Streamer.bot is a tool to integrate OBS, Twitch, Stream Elements, and more when livestreaming. I primarily use it to toggle overlays in OBS when Twitch ads begin/end.</description>
+    <pubDate>Tue, 18 Feb 2025 03:35:48 GMT</pubDate>
+  </item><item>
+    <title>Resources</title>
+    <link>https://garden.astrabun.com/Resources/</link>
+    <guid>https://garden.astrabun.com/Resources/</guid>
+    <description></description>
+    <pubDate>Tue, 18 Feb 2025 02:35:24 GMT</pubDate>
+  </item><item>
+    <title>Livestreaming Resources</title>
+    <link>https://garden.astrabun.com/Resources/Livestreaming/</link>
+    <guid>https://garden.astrabun.com/Resources/Livestreaming/</guid>
+    <description>This section details tools/resources for livestreaming (on Twitch or elsewhere, and via OBS or other tools).</description>
+    <pubDate>Tue, 18 Feb 2025 02:32:15 GMT</pubDate>
+  </item><item>
+    <title>VDO.Ninja</title>
+    <link>https://garden.astrabun.com/Resources/Livestreaming/VDO.Ninja</link>
+    <guid>https://garden.astrabun.com/Resources/Livestreaming/VDO.Ninja</guid>
+    <description>VDO.Ninja is a free tool that allows remote sources (a phone, another person’s computer, etc) to be brought in to OBS as a Browser Source.</description>
+    <pubDate>Tue, 18 Feb 2025 02:30:49 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://garden.astrabun.com/</link>
+    <guid>https://garden.astrabun.com/</guid>
+    <description>Hello, and welcome to my Digital Garden! More information coming soon!.</description>
+    <pubDate>Tue, 18 Feb 2025 01:41:54 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
